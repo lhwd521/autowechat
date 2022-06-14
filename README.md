@@ -4,10 +4,16 @@ node.js 编写的微信群发小程序，模拟鼠标和键盘的操作
 
 ## 配置环境
 
-nut.js 库
+### nut.js 库
+
 https://github.com/nut-tree/nut.js
 
-iconv-lite 库
+npm i @nut-tree/nut-js
+
+npm i @nut-tree/template-matcher
+
+### iconv-lite 库
+
 npm install iconv-lite
 
 ## 使用步骤
