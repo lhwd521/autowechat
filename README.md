@@ -18,6 +18,8 @@ txt 中输入想群发的文字内容
 
 qunfaAll("输入群名称", "搜索群名称后显示出的图片截图", txt)
 
+图片截图存放的位置：/resouce/path
+
 示例：qunfaAll("元岛 2 班", "1.jpg", txt)
 
 qunfaAll：群发并@所有人
