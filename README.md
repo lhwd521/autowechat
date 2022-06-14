@@ -25,3 +25,6 @@ qunfaAll("输入群名称", "搜索群名称后显示出的图片截图", txt)
 qunfaAll：群发并@所有人
 
 qunfa：发送普通消息
+
+## 演示
+![yanshi](https://user-images.githubusercontent.com/15196067/173546755-57f3ca7b-0e97-4234-a6e0-200bd0e4f9fd.gif)
